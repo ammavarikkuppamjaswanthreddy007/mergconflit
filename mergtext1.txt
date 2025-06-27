@@ -1,2 +1,2 @@
-city : T.N
 
+CITY : TIRUPATI
